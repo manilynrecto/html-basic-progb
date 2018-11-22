@@ -1,0 +1,42 @@
+<DOCTYPE! html>
+<html lang="EN">
+    <head>
+        <title>Personal Blog</title> 	
+	</head>
+	
+	<body>
+	    
+		<h1>Lorem ipsum dolor</h1>
+		<h2>Lorem ipsum dolor</h2>
+		<h3>Lorem ipsum dolor</h3>
+		<h4>Lorem ipsum dolor</h4>
+		<h5>Lorem ipsum dolor</h5>
+		<h6>Lorem ipsum dolor</h6>
+		
+	    <strong><em>Hello</em> World!<strong> 
+		<pre>Hello  <span>world!</span></pre>
+		
+		<p> </p<
+		
+		<!-- Unordered List / Bullets-->
+		
+		<h2> My Faves </h2>
+		<ul>
+		   <li>Neri</li>
+		   <li>Alec</li>
+		</ul>
+		
+		<ol>
+		   <li>Neri</li>
+		   <li>Alec</li>
+		</ol> -->
+		
+		<a href="about.html">About</a> -->
+		
+		<a href="levi.html"> title="levi"/>
+		<img scr="../img/levi.gif" alt="levi"/>
+		
+		
+	</body>
+	
+</hmtl>
