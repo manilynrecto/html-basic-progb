@@ -1,0 +1,1 @@
+CREATE TABLE `db_studentinfo`.`tbl_employees2` ( `firstname` CHAR(50) NOT NULL , `lastname` CHAR(55) NOT NULL , `title` CHAR(20) NOT NULL , `age` INT NOT NULL , `salary` FLOAT NOT NULL , `date_time_created` TIMESTAMP NOT NULL , `id` INT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
